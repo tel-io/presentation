@@ -40,7 +40,6 @@ by Harupa Dzmitry <d.harupa@pin-up.team>
 [.column]
 --
 image::AVA.jpg[]
-
 --
 
 == Agenda

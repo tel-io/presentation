@@ -3,6 +3,9 @@
 Modern observability approach which covering Logging, Tracing, Metrics and little more.
 Introduction to framework with simple usage and reach functionality.
 
+== Pages
+https://tel-io.github.io/presentation/tel.html#/_hello_tel
+
 == Agenda
 
 - Introduction to distributed observability (Show history)
@@ -18,7 +21,6 @@ Introduction to framework with simple usage and reach functionality.
 * Context propagation
 * Middlewares, Plugins
 - Demo
-
 
 == Setup
 * https://docs.asciidoctor.org/reveal.js-converter/latest/setup/node-js-setup/
