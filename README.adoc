@@ -1,0 +1,37 @@
+= Hello tel!
+
+Modern observability approach which covering Logging, Tracing, Metrics and little more.
+Introduction to framework with simple usage and reach functionality.
+
+== Agenda
+
+- Introduction to distributed observability (Show history)
+* Logging
+**  ELK STACK
+* Metrics
+* Tracing
+** OpenTracing
+- OpenTelemetry
+* Components
+- Introduction TEL framework
+* Features
+* Context propagation
+* Middlewares, Plugins
+- Demo
+
+
+== Setup
+* https://docs.asciidoctor.org/reveal.js-converter/latest/setup/node-js-setup/
+* https://github.com/asciidoctor/asciidoctor-reveal.js/tree/master/examples
+
+[souce,bash]
+----
+npm init -y
+npm i --save asciidoctor @asciidoctor/reveal.js
+----
+
+== Run
+[source,bash]
+----
+npx asciidoctor-revealjs tel.adoc
+----

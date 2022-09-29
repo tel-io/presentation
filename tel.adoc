@@ -1,0 +1,71 @@
+// :include: //div[@class="slides"]
+// :header_footer:
+== Hello tel!
+:revdate: 2022-09-26
+:imagesdir: images
+//:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+//:customcss: fragments.css
+:revealjs_hash: true
+:revealjs_center: false
+:revealjs_height: 1080
+:revealjs_width: 1920
+:icons: font
+:font-awesome-version: 5.14.0
+:revealjs_controls: true
+:revealjs_controlsTutorial: true
+:revealjs_totalTime: 2700
+:revealjsdir: ./reveal.js
+
+Modern observability approach which covering Logging, Tracing, Metrics and little more. Introduction to framework with simple usage and reach functionality.
+
+by Harupa Dzmitry <d.harupa@pin-up.team>
+
+@{localyear}
+
+[.columns]
+== About author
+
+[.column]
+--
+* >13 years in development
+* >6 years as Go lang dev
+* >5 in Gambling industry (Game dev, Producer, Game Master, Mathematician)
+* Developed 4 games for Booongo (as partners)
+* Performed 5 game maths for IGT
+* Certified Kubernetes Application Developer
+* For now solution architect in Pin-Up company
+--
+
+[.column]
+--
+image::AVA.jpg[]
+
+--
+
+== Agenda
+
+- Introduction to distributed observability (Show history)
+* Logging
+**  ELK STACK
+* Metrics
+* Tracing
+** OpenTracing
+- OpenTelemetry
+* Components
+- Introduction TEL framework
+* Features
+* Context propagation
+* Middlewares, Plugins
+- Demo
+
+== Contacts
+icon:envelope[size=lg] d.harupa@pin-up.team
+
+icon:envelope[size=lg] d7561985@gmail.com
+
+icon:github[size=lg] https://github.com/d7561985
+
+icon:linkedin[size=lg] https://linkedin.com/in/dzmitry-harupa-332131137
+
+icon:instagram[size=lg] dzmityinv
